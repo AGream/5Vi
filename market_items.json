@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Малая сумка",
+        "enabled": true,
+        "max_price": 1000000,
+        "quantity": 7,
+        "bought_count": 0,
+        "template_path": "C:\\Users\\Gream\\Desktop\\PythonProject\\item_templates\\Malaja_sumka.png"
+    },
+    {
+        "name": "Слабое обезболивающее",
+        "enabled": true,
+        "max_price": 3000,
+        "quantity": 1,
+        "bought_count": 0,
+        "template_path": "C:\\Users\\Gream\\Desktop\\PythonProject\\item_templates\\Slaboe_obezbolivajuschee.png"
+    }
+]
